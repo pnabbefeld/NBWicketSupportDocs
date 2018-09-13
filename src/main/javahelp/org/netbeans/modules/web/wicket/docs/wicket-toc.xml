@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN" "http://java.sun.com/products/javahelp/toc_2_0.dtd">
+<toc version="2.0">
+    <tocitem text="Wicket Support">
+        <tocitem text="About Wicket Support" target="org.netbeans.modules.web.wicket.about"/>
+        <tocitem text="Wicket Overview" target="org.netbeans.modules.web.wicket.overview"/>
+    </tocitem>
+</toc>

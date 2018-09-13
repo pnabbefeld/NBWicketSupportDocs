@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Layer: org/netbeans/modules/web/wicket/docs/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/web/wicket/docs/Bundle.properties
+OpenIDE-Module-Requires: org.netbeans.api.javahelp.Help
