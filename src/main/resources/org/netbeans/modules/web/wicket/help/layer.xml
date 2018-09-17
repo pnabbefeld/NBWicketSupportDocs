@@ -3,7 +3,7 @@
 <filesystem>
     <folder name="Services">
         <folder name="JavaHelp">
-            <file name="helpset.xml" url="wicket-hs.xml">
+            <file name="helpset.xml" url="wicket-helpset.xml">
                 <attr name="position" stringvalue="1000"/>
             </file>
         </folder>
